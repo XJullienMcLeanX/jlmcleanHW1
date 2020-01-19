@@ -1,0 +1,19 @@
+/*
+ Filename: jlmcleanHW1.css
+ Written by: Jullien McLean (JLJM)
+ Purpose: A simple css file to be put on the GitHub servers
+ Date: 19 January, 2020
+ Modification History: 19 January, 2020
+ Original Build
+*/
+
+h1 {
+	text-align: center;
+}
+div {
+	background-color: grey;
+}
+
+span {
+	color: red;
+}
